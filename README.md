@@ -16,3 +16,11 @@ Some of the challenges I encountered were the number of DataFrames we were asked
 Another challenge that I encountered was formatting summary Dataframes that have NAN values into something that can be summed up. It was important to give NAN values a 0, so it would be easy to sum up the total fares based on city type. After many attempts of trial and error and fixing the code, I was finally able to get a total sum rather than NAN's or 0's. 
 
 Originally, my date was formatted differently from the Module, (2019-01-01, rather than 01/01/2019) so its important to see how your data output shows so when creating a date range, you are using the appropriate formatting. 
+
+## Third Paragraph
+### Thoughts and Reccomendations
+
+I think it would be very interesting to find out how long a typical ride is or the distance these rides are. For the CEO of a ride-sharing app, I want to see the typical types of rides our clients take: whether than is a 5-8 quick ride to work in a bustling city, or a 15-20 commute to a friends house in the suburbs. After getting this data, you can total the time it takes for each city type and find an average trip time per driver and ride by diving that number by the total number of drivers and rides! 
+This could also provide more information on the trips that Urban cities take. In general, the average fair per driver for Urban drivers is much less than those of Suburban and Urban areas, and they are doing a lot more rides. When thinking about driver equity, it is important drivers are making a decent living while not being overworked! 
+
+I think analyzing Urban statistics is cruical. With the rise of ride-sharing apps, cities have become historically more congested. Looking more closely at the time of day rides are requested can help the CEO determine when clients are in need of rides and how we they can better use data to take alternative routes and help the city. Also, looking at the distance as previously mentioned can help determine what types of vehicles should be on the road and can help limit unecessary gas emissions. 
