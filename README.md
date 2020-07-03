@@ -12,7 +12,7 @@ In Summary, Ubran cities are much more bustling and happening! There are more pe
 
 ## Second Parapgraph
 ### Challenges Encountered and Overcome
-Some of the challenges I encountered were the number of DataFrames we were asked to create. Each time you make a new DataFrame, there is room for human error. Because of this, it is very important you create a plan before starting your code so you know when its appropriate to create a a new DataFrame and follow along as you make your way down the assignment. As you can see in this image, I have created a plan prior to starting to help guide me: [Imaage of Plan](analysis/Plan.PNG)
+Some of the challenges I encountered were the number of DataFrames we were asked to create. Each time you make a new DataFrame, there is room for human error. Because of this, it is very important you create a plan before starting your code so you know when its appropriate to create a a new DataFrame and follow along as you make your way down the assignment. As you can see in this image, I have created a plan prior to starting to help guide me: [Image of Plan](analysis/Plan.PNG)
 
 Another challenge that I encountered was formatting summary Dataframes that have NAN values into something that can be summed up. It was essential to make NAN values a 0, so it would be easy to sum up the total fares based on city type. After many attempts of trial and error and fixing the code, I was finally able to get a total sum rather than NAN's or 0's. [Image of Nan](analysis/Nan.png)
 
